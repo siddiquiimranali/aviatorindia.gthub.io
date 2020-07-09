@@ -554,6 +554,7 @@ h3.tittle.white {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
+	backgroud-position:center;
 }
 
 /*--sevices-bottom-section--*/
