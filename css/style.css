@@ -2357,7 +2357,7 @@ div#bs-example-navbar-collapse-1 {
     font-size: 2.4em;
 }
 .banner {
-    min-height: 569px;
+    min-height: 450px;
 }
 .w3_stats_left h3 {
     font-size: 2.8em;
@@ -2667,10 +2667,7 @@ div#bs-example-navbar-collapse-1 {
 }
 }
 @media(max-width:375px){
-.banner {
-    background: url(../images/b12.jpg)no-repeat -367px 0px;
-    background-size: cover;
-}
+
 .w3-button {
     width: 84%;
 }
@@ -3047,6 +3044,7 @@ h1.contentCaption {
 		font-size:2.5em;
 	}
 	.cont-container .cont-box {
+		margin:0px;
 		margin-bottom:30px;
 	}
 	.aboutus_area {
