@@ -2953,7 +2953,7 @@ h1.contentCaption {
 		color:#F2184F;
 	}
 	.aboutus_area{
-		background-image: url(file:///D:/angular/aviatorsindia/images/t2.jpg);
+		background-image: url(../images/t2.jpg);
 		text-align:center;
 		padding: 150px 0;
 		background-repeat: no-repeat;
